@@ -1,0 +1,8 @@
+{
+   "name": "chatnodejs",
+   "version": "0.1.0",
+   "description": "chat desarrollo en node.j"s,
+   "main": "app.js",
+   "author": "Paulo Sergio Luna Cortes",
+   "dependencies": {
+          
